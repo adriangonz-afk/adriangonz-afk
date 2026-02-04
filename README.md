@@ -3,7 +3,7 @@
   <h3>Systems Engineering Student | Data Analytics & Machine Learning Enthusiast</h3>
   
   <p>
-    I focus on diagnosing data stability and building robust algebraic models for financial decision-making.
+    I focus on diagnosing data stability, building robust algebraic models, and extracting actionable business insights from complex datasets.
     <br>
     Currently studying at <b>UNMSM (7th Cycle)</b>.
   </p>
@@ -19,7 +19,7 @@
 <hr/>
 
 ### 🛠️ Tech Stack & Tools
-Como analista de datos e ingeniero, estas son las herramientas que domino. 
+Herramientas que utilizo para convertir datos en decisiones.
 *(Iconos seleccionados de tandpfun/skill-icons)*
 
 <div align="center">
@@ -30,12 +30,14 @@ Como analista de datos e ingeniero, estas son las herramientas que domino.
 
 <br/>
 
-### 🚀 Featured Project: Credit Risk Algebraic Diagnosis
-No solo entreno modelos, diagnostico los datos. En este proyecto, reemplacé algoritmos de caja negra con **SVD (Singular Value Decomposition)** para resolver la inestabilidad matricial en la evaluación de riesgo crediticio.
+### 🚀 Featured Projects
+Una selección de mis proyectos aplicando Machine Learning y Analytics en diferentes industrias.
 
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **[Credit-Risk-Algebraic-ML](https://github.com/adriangonz-afk/Credit-Risk-Algebraic-ML)** | Python, NumPy, SVD | • Diagnóstico de Condición Numérica ($\kappa$)<br>• Modelo de regresión robusto vs OLS<br>• Análisis de estabilidad financiera |
+| Domain | Project & Link | Tech Stack | Key Impact |
+| :--- | :--- | :--- | :--- |
+| 🏦 **Finance** | **[Credit-Risk-Algebraic-ML](https://github.com/adriangonz-afk/Credit-Risk-Algebraic-ML)** | Python, NumPy, SVD | • Diagnóstico de estabilidad matricial ($\kappa$)<br>• Modelo algebraico robusto (SVD) vs OLS<br>• Detección de multicolinealidad crítica |
+| ⚽ **Sports** | **[Soccer-Performance-Prediction](https://github.com/adriangonz-afk/Soccer-Performance-Prediction-ML)** | Python, Scikit-learn, Pandas | • Modelado predictivo de rendimiento<br>• Ingeniería de variables deportivas<br>• Evaluación de métricas de regresión/clasificación |
+| 🛍️ **Retail** | **[Retail-Sales-Analytics](https://github.com/adriangonz-afk/Retail-Sales-Analytics-Python)** | Python, Matplotlib, Seaborn | • Análisis Exploratorio de Datos (EDA) profundo<br>• Identificación de tendencias de ventas y KPIs<br>• Visualización de patrones de consumo |
 
 <br/>
 
@@ -44,6 +46,5 @@ Un vistazo a mi actividad en código.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adriangonz-afk&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriangonz-afk&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
