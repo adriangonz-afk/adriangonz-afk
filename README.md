@@ -44,7 +44,5 @@ Una selección de mis proyectos aplicando Machine Learning y Analytics en difere
 ### 📊 GitHub Stats
 Un vistazo a mi actividad en código.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriangonz-afk&show_icons=true&theme=dark&hide_border=true" alt="Adrian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriangonz-afk&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
+![Stats de Adrian](https://github-readme-stats.vercel.app/api?username=adriangonz-afk&show_icons=true&theme=radial)
+![Lenguajes de Adrian](https://github-readme-stats.vercel.app/api/top-langs/?username=adriangonz-afk&layout=compact&theme=radial)
